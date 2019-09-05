@@ -1,0 +1,2 @@
+# EXAMPLES_hibernate_API
+EXAMPLES hibernate (EDUCATIONAL PROJECT)
